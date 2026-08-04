@@ -13,8 +13,10 @@ class StepLabel:
     FUNCTION = "show"
     CATEGORY = "Workflow Decorations"
 
+    OUTPUT_NODE = True
+
     def show(self, label):
-        print(f"Step Label: {label}")
+        print(f"[Step Label] {label}")
         return ()
 
 NODE_CLASS_MAPPINGS = {
@@ -23,4 +25,4 @@ NODE_CLASS_MAPPINGS = {
 
 NODE_DISPLAY_NAME_MAPPINGS = {
     "StepLabel": "⭐ Step Label",
-}
+}print("BlueGlassStudio Python Loaded")
