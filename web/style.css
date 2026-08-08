@@ -1,0 +1,17 @@
+#bgs-step-label-theme-placeholder,
+.bgs-step-label-theme {
+  --bgs-step-label-accent: #2d64c0;
+  --bgs-step-label-accent-line: #3f83ef;
+  --bgs-step-label-surface: #20242a;
+  --bgs-step-label-title: #f5f8ff;
+  --bgs-step-label-step: #ffffff;
+}
+
+.bgs-step-label-theme {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  pointer-events: none;
+  opacity: 0;
+}

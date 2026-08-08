@@ -12,7 +12,15 @@ Developed by **BlueGlassStudio (BGS)**.
 - 🏷️ Banner Node (Coming Soon)
 - 📝 Note+ (Coming Soon)
 - ➡️ Arrow (Coming Soon)
-- ⭐ Step Labels (Coming Soon)
+- ⭐ Step Label
+
+---
+
+## ⭐ Step Label
+
+A visual workflow decoration node for organizing ComfyUI workflows into clear and readable steps.
+
+[📖 Step Label Documentation](docs/StepLabel.md)
 
 ---
 
